@@ -1,4 +1,4 @@
-# vezemnegabarit.com
+# [vezemnegabarit.com](http://vezemnegabarit.com)
 Внесение изменений в сайт: контент, верстка, разработка 
 
 Участие в обсуждениях приветствуется (необходимо зарегистрироваться на гитхабе - https://github.com).
